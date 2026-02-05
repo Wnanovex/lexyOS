@@ -171,7 +171,7 @@ make install-target-libstdc++-v3
 Clone the repository and build:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Wnanovex/lexyOS.git
 cd lexyOS
 make
 ```
@@ -184,12 +184,12 @@ make
 make run
 ```
 
-This creates a bootable ISO image: `lexyos.iso`.
+This creates a bootable ISO image: `lexyOS.iso`.
 This boots lexyOS in QEMU with VGA graphics support.
 
 ### Using Other Emulators
 
-You can also boot `lexyos.iso` in VirtualBox, VMware, or on real hardware (at your own risk!).
+You can also boot `lexyOS.iso` in VirtualBox, VMware, or on real hardware (at your own risk!).
 
 ## 🎯 Features to Try
 
